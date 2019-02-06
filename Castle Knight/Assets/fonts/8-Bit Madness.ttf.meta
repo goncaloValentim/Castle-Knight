@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 29accb327bdea9048affdbfb8e95ba4f
+timeCreated: 1499619201
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Eight-Bit Madness
+  fontNames:
+  - Eight-Bit Madness
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 2
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,58 @@
+C:\Users\gonca\Documents\Castle Knight\Castle Knight\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\gonca\Documents\Castle Knight\Castle Knight\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\gonca\Documents\Castle Knight\Castle Knight\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\gonca\Documents\Castle Knight\Castle Knight\Temp\bin\Debug\UnityEditor.dll
+C:\Users\gonca\Documents\Castle Knight\Castle Knight\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\gonca\Documents\Castle Knight\Castle Knight\Temp\bin\Debug\UnityEngine.dll
+C:\Users\gonca\Documents\Castle Knight\Castle Knight\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\gonca\Documents\Castle Knight\Castle Knight\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\gonca\Documents\Castle Knight\Castle Knight\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\gonca\Documents\Castle Knight\Castle Knight\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\gonca\Documents\Castle Knight\Castle Knight\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\gonca\Documents\Castle Knight\Castle Knight\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\gonca\Documents\Castle Knight\Castle Knight\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\gonca\Documents\Castle Knight\Castle Knight\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\gonca\Documents\Castle Knight\Castle Knight\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\gonca\Documents\Castle Knight\Castle Knight\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\gonca\Documents\Castle Knight\Castle Knight\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\gonca\Documents\Castle Knight\Castle Knight\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\gonca\Documents\Castle Knight\Castle Knight\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\gonca\Documents\Castle Knight\Castle Knight\Temp\bin\Debug\UnityEngine.xml
+C:\Users\gonca\Documents\Castle Knight\Castle Knight\Temp\bin\Debug\UnityEditor.xml
+C:\Users\gonca\Documents\Castle Knight\Castle Knight\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\gonca\Documents\Castle Knight\Castle Knight\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\gonca\Documents\Castle Knight\Castle Knight\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\gonca\Documents\Castle Knight\Castle Knight\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\gonca\Documents\Castle Knight\Castle Knight\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\gonca\Documents\Castle Knight\Castle Knight\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\gonca\Documents\Castle Knight\Castle Knight\obj\Debug\Assembly-CSharp.dll
+C:\Users\gonca\Documents\Castle Knight\Castle Knight\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Gonçalo\Dropbox\2ºAno 2ºSemestre\AM\Castle Knight\Castle Knight\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Gonçalo\Dropbox\2ºAno 2ºSemestre\AM\Castle Knight\Castle Knight\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Gonçalo\Dropbox\2ºAno 2ºSemestre\AM\Castle Knight\Castle Knight\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Gonçalo\Dropbox\2ºAno 2ºSemestre\AM\Castle Knight\Castle Knight\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Gonçalo\Dropbox\2ºAno 2ºSemestre\AM\Castle Knight\Castle Knight\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Gonçalo\Dropbox\2ºAno 2ºSemestre\AM\Castle Knight\Castle Knight\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Gonçalo\Dropbox\2ºAno 2ºSemestre\AM\Castle Knight\Castle Knight\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Gonçalo\Dropbox\2ºAno 2ºSemestre\AM\Castle Knight\Castle Knight\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Gonçalo\Dropbox\2ºAno 2ºSemestre\AM\Castle Knight\Castle Knight\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Gonçalo\Dropbox\2ºAno 2ºSemestre\AM\Castle Knight\Castle Knight\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Gonçalo\Dropbox\2ºAno 2ºSemestre\AM\Castle Knight\Castle Knight\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Gonçalo\Dropbox\2ºAno 2ºSemestre\AM\Castle Knight\Castle Knight\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Gonçalo\Dropbox\2ºAno 2ºSemestre\AM\Castle Knight\Castle Knight\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Gonçalo\Dropbox\2ºAno 2ºSemestre\AM\Castle Knight\Castle Knight\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Gonçalo\Dropbox\2ºAno 2ºSemestre\AM\Castle Knight\Castle Knight\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Gonçalo\Dropbox\2ºAno 2ºSemestre\AM\Castle Knight\Castle Knight\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Gonçalo\Dropbox\2ºAno 2ºSemestre\AM\Castle Knight\Castle Knight\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Gonçalo\Dropbox\2ºAno 2ºSemestre\AM\Castle Knight\Castle Knight\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Gonçalo\Dropbox\2ºAno 2ºSemestre\AM\Castle Knight\Castle Knight\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Gonçalo\Dropbox\2ºAno 2ºSemestre\AM\Castle Knight\Castle Knight\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Gonçalo\Dropbox\2ºAno 2ºSemestre\AM\Castle Knight\Castle Knight\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Gonçalo\Dropbox\2ºAno 2ºSemestre\AM\Castle Knight\Castle Knight\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Gonçalo\Dropbox\2ºAno 2ºSemestre\AM\Castle Knight\Castle Knight\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Gonçalo\Dropbox\2ºAno 2ºSemestre\AM\Castle Knight\Castle Knight\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Gonçalo\Dropbox\2ºAno 2ºSemestre\AM\Castle Knight\Castle Knight\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Gonçalo\Dropbox\2ºAno 2ºSemestre\AM\Castle Knight\Castle Knight\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Gonçalo\Dropbox\2ºAno 2ºSemestre\AM\Castle Knight\Castle Knight\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Gonçalo\Dropbox\2ºAno 2ºSemestre\AM\Castle Knight\Castle Knight\obj\Debug\Assembly-CSharp.dll
+C:\Users\Gonçalo\Dropbox\2ºAno 2ºSemestre\AM\Castle Knight\Castle Knight\obj\Debug\Assembly-CSharp.pdb
